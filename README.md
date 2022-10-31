@@ -1,2 +1,7 @@
-# 100daysofcodeCSharp
+# 100daysofcodeC#
 C Sharp practice
+
+C# Practice
+
+Day 1
+
